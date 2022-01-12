@@ -37,3 +37,11 @@ button:hover {
 li {
   margin-top: 20px;
 }
+
+.table-container,
+tr,
+tbody,
+td {
+  padding: 5px;
+  border: 1px solid black;
+}
